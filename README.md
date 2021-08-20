@@ -1,7 +1,7 @@
 ��# GRIP-PROJ
 
-dwithi 
-📧 dwithip@gmail.com
+amisha shetty 
+📧 shettyamisha78@gmail.com
 This repository contains my internship project for 'The Sparks Foundation' for July 2021 batch.
 
 TSF GRIP task Payment Integration Gateway.
